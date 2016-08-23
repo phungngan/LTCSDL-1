@@ -1,0 +1,18 @@
+c:\users\thi ngan\documents\visual studio 2010\Projects\QLAoCuoi\QLAoCuoi\obj\x86\Debug\QLAoCuoi.frmNhanVien.resources
+c:\users\thi ngan\documents\visual studio 2010\Projects\QLAoCuoi\QLAoCuoi\obj\x86\Debug\QLAoCuoi.Properties.Resources.resources
+c:\users\thi ngan\documents\visual studio 2010\Projects\QLAoCuoi\QLAoCuoi\obj\x86\Debug\QLAoCuoi.csproj.GenerateResource.Cache
+c:\users\thi ngan\documents\visual studio 2010\Projects\QLAoCuoi\QLAoCuoi\bin\Debug\QLAoCuoi.exe.config
+c:\users\thi ngan\documents\visual studio 2010\Projects\QLAoCuoi\QLAoCuoi\bin\Debug\QLAoCuoi.exe
+c:\users\thi ngan\documents\visual studio 2010\Projects\QLAoCuoi\QLAoCuoi\bin\Debug\QLAoCuoi.pdb
+c:\users\thi ngan\documents\visual studio 2010\Projects\QLAoCuoi\QLAoCuoi\obj\x86\Debug\QLAoCuoi.exe
+c:\users\thi ngan\documents\visual studio 2010\Projects\QLAoCuoi\QLAoCuoi\obj\x86\Debug\QLAoCuoi.pdb
+C:\Users\Thi Ngan\documents\visual studio 2010\Projects\QLAoCuoi\QLAoCuoi\obj\x86\Debug\QLAoCuoi.csprojResolveAssemblyReference.cache
+E:\QLAoCuoi2\QLAoCuoi\QLAoCuoi\bin\Debug\QLAoCuoi.exe.config
+E:\QLAoCuoi2\QLAoCuoi\QLAoCuoi\obj\x86\Debug\QLAoCuoi.exe
+E:\QLAoCuoi2\QLAoCuoi\QLAoCuoi\obj\x86\Debug\QLAoCuoi.pdb
+E:\QLAoCuoi2\QLAoCuoi\QLAoCuoi\bin\Debug\QLAoCuoi.exe
+E:\QLAoCuoi2\QLAoCuoi\QLAoCuoi\bin\Debug\QLAoCuoi.pdb
+E:\QLAoCuoi2\QLAoCuoi\QLAoCuoi\obj\x86\Debug\QLAoCuoi.csprojResolveAssemblyReference.cache
+E:\QLAoCuoi2\QLAoCuoi\QLAoCuoi\obj\x86\Debug\QLAoCuoi.frmNhanVien.resources
+E:\QLAoCuoi2\QLAoCuoi\QLAoCuoi\obj\x86\Debug\QLAoCuoi.Properties.Resources.resources
+E:\QLAoCuoi2\QLAoCuoi\QLAoCuoi\obj\x86\Debug\QLAoCuoi.csproj.GenerateResource.Cache

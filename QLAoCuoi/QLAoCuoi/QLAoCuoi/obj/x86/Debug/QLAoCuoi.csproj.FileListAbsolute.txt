@@ -1,0 +1,18 @@
+c:\users\thi ngan\documents\visual studio 2010\Projects\QLAoCuoi\QLAoCuoi\obj\x86\Debug\QLAoCuoi.frmNhanVien.resources
+c:\users\thi ngan\documents\visual studio 2010\Projects\QLAoCuoi\QLAoCuoi\obj\x86\Debug\QLAoCuoi.Properties.Resources.resources
+c:\users\thi ngan\documents\visual studio 2010\Projects\QLAoCuoi\QLAoCuoi\obj\x86\Debug\QLAoCuoi.csproj.GenerateResource.Cache
+c:\users\thi ngan\documents\visual studio 2010\Projects\QLAoCuoi\QLAoCuoi\bin\Debug\QLAoCuoi.exe.config
+c:\users\thi ngan\documents\visual studio 2010\Projects\QLAoCuoi\QLAoCuoi\bin\Debug\QLAoCuoi.exe
+c:\users\thi ngan\documents\visual studio 2010\Projects\QLAoCuoi\QLAoCuoi\bin\Debug\QLAoCuoi.pdb
+c:\users\thi ngan\documents\visual studio 2010\Projects\QLAoCuoi\QLAoCuoi\obj\x86\Debug\QLAoCuoi.exe
+c:\users\thi ngan\documents\visual studio 2010\Projects\QLAoCuoi\QLAoCuoi\obj\x86\Debug\QLAoCuoi.pdb
+C:\Users\Thi Ngan\documents\visual studio 2010\Projects\QLAoCuoi\QLAoCuoi\obj\x86\Debug\QLAoCuoi.csprojResolveAssemblyReference.cache
+C:\Users\Kim Hue\Downloads\Compressed\QLAoCuoi\QLAoCuoi\QLAoCuoi\bin\Debug\QLAoCuoi.exe.config
+C:\Users\Kim Hue\Downloads\Compressed\QLAoCuoi\QLAoCuoi\QLAoCuoi\obj\x86\Debug\QLAoCuoi.exe
+C:\Users\Kim Hue\Downloads\Compressed\QLAoCuoi\QLAoCuoi\QLAoCuoi\obj\x86\Debug\QLAoCuoi.pdb
+C:\Users\Kim Hue\Downloads\Compressed\QLAoCuoi\QLAoCuoi\QLAoCuoi\bin\Debug\QLAoCuoi.exe
+C:\Users\Kim Hue\Downloads\Compressed\QLAoCuoi\QLAoCuoi\QLAoCuoi\bin\Debug\QLAoCuoi.pdb
+C:\Users\Kim Hue\Downloads\Compressed\QLAoCuoi\QLAoCuoi\QLAoCuoi\obj\x86\Debug\QLAoCuoi.csprojResolveAssemblyReference.cache
+C:\Users\Kim Hue\Downloads\Compressed\QLAoCuoi\QLAoCuoi\QLAoCuoi\obj\x86\Debug\QLAoCuoi.frmNhanVien.resources
+C:\Users\Kim Hue\Downloads\Compressed\QLAoCuoi\QLAoCuoi\QLAoCuoi\obj\x86\Debug\QLAoCuoi.Properties.Resources.resources
+C:\Users\Kim Hue\Downloads\Compressed\QLAoCuoi\QLAoCuoi\QLAoCuoi\obj\x86\Debug\QLAoCuoi.csproj.GenerateResource.Cache
